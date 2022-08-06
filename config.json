@@ -1,0 +1,7 @@
+{
+    "NEWS_API_KEY": "8eaf9ca7ac014f63b71b5981fe226a34",
+    "LOCATION" : "england",
+    "NATION_LOCATION": "exeter",
+    "LOG_FILE": "logs.log",
+    "NEWS_ARTICLES_LIMIT": 5
+}
